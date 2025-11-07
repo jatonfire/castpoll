@@ -1,0 +1,26 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "PollCaster",
+    "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_f6b279c8-458a-46db-afce-43c7dd24ff45-Sn01jjN4LF6t1gdMBXNJNxpyjL7Dqe",
+    "homeUrl": "https://whale-dug-206.app.ohara.ai",
+    "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_f6b279c8-458a-46db-afce-43c7dd24ff45-Sn01jjN4LF6t1gdMBXNJNxpyjL7Dqe",
+    "buttonTitle": "Open with Ohara",
+    "splashImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/farcaster/splash_images/splash_image1.svg",
+    "splashBackgroundColor": "#ffffff",
+    "tags": [
+      "ohara",
+      "mini-app",
+      "base",
+      "farcaster"
+    ],
+    "primaryCategory": "entertainment",
+    "ogTitle": "PollCaster",
+    "ogImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_f6b279c8-458a-46db-afce-43c7dd24ff45-Sn01jjN4LF6t1gdMBXNJNxpyjL7Dqe"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      ""
+    ]
+  }
+}
