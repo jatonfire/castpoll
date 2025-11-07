@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
-import './globals.css';  // ✅ This is the correct path
+import './globals.css';
 import Script from 'next/script';
 import FarcasterWrapper from "@/components/FarcasterWrapper";
 
@@ -31,7 +31,7 @@ export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
-}>): JSX.Element {
+}>): React.JSX.Element {  // ✅ FIXED
   return (
     <html lang="en">
       <head>
