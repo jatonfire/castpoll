@@ -15,7 +15,7 @@ import { Loader2 } from 'lucide-react';
 
 type View = 'create' | 'vote';
 
-export default function CastPollPage(): JSX.Element {
+export default function CastPollPage(): React.JSX.Element {
   const { addMiniApp } = useAddMiniApp();
   const isInFarcaster = useIsInFarcaster();
   useQuickAuth(isInFarcaster);
